@@ -2,7 +2,7 @@
 
 ## Description
 
-This notebook is an example of how to get MOC data from VESPA in Python
+Those notebooks are examples of how to get MOC data from VESPA in Python and to manipulate it (union, intersection...).
 
 ## Installation and execution
 
